@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SKIT.FlurlHttpClient.ByteDance.DouyinOpen/SKIT.FlurlHttpClient.ByteDance.DouyinOpen.csproj" />
+    <Project Path="src/SKIT.FlurlHttpClient.ByteDance.MicroApp/SKIT.FlurlHttpClient.ByteDance.MicroApp.csproj" />
+    <Project Path="src/SKIT.FlurlHttpClient.ByteDance.OceanEngine/SKIT.FlurlHttpClient.ByteDance.OceanEngine.csproj" />
+    <Project Path="src/SKIT.FlurlHttpClient.ByteDance.TikTokGlobal/SKIT.FlurlHttpClient.ByteDance.TikTokGlobal.csproj" />
+    <Project Path="src/SKIT.FlurlHttpClient.ByteDance.TikTokGlobalShop/SKIT.FlurlHttpClient.ByteDance.TikTokGlobalShop.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/SKIT.FlurlHttpClient.ByteDance.DouyinOpen.UnitTests/SKIT.FlurlHttpClient.ByteDance.DouyinOpen.UnitTests.csproj" />
+    <Project Path="test/SKIT.FlurlHttpClient.ByteDance.MicroApp.UnitTests/SKIT.FlurlHttpClient.ByteDance.MicroApp.UnitTests.csproj" />
+    <Project Path="test/SKIT.FlurlHttpClient.ByteDance.OceanEngine.UnitTests/SKIT.FlurlHttpClient.ByteDance.OceanEngine.UnitTests.csproj" />
+    <Project Path="test/SKIT.FlurlHttpClient.ByteDance.TikTokGlobal.UnitTests/SKIT.FlurlHttpClient.ByteDance.TikTokGlobal.UnitTests.csproj" />
+    <Project Path="test/SKIT.FlurlHttpClient.ByteDance.TikTokGlobalShop.UnitTests/SKIT.FlurlHttpClient.ByteDance.TikTokGlobalShop.UnitTests.csproj" />
+  </Folder>
+</Solution>
